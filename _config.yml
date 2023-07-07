@@ -1,1 +1,10 @@
+lsi: false
+safe: true
+source: .
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  syntax_highlighter: rouge
 theme: jekyll-theme-minimal
