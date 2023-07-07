@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Test page](~/test.html)
+[Test page](test.html)
 
 [Test page in subdirectory](dir1/dir1html1.html)
 
